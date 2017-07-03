@@ -1,0 +1,345 @@
+jump to content
+my subreddits
+
+    popular-all-random
+
+ |
+
+    AskReddit-funny-pics-worldnews-gaming-todayilearned-aww-videos-mildlyinteresting-news-gifs-movies-Showerthoughts-Jokes-nottheonion-OldSchoolCool-sports-television-LifeProTips-explainlikeimfive-space-tifu-science-UpliftingNews-Music-photoshopbattles-TwoXChromosomes-food-Art-EarthPorn-personalfinance-WritingPrompts-Futurology-askscience-IAmA-creepy-Documentaries-dataisbeautiful-books-nosleep-DIY-GetMotivated-history-gadgets-listentothis-philosophy-InternetIsBeautiful-announcements-blog
+
+more »
+programming programming
+
+    hotnewrisingcontroversialtopgildedwikipromoted
+
+Want to join? Log in or sign up in seconds.|
+
+    English
+
+remember mereset password
+Submit a new link
+programming
+subscribe775,796 readers
+
+2,660 users here now
+
+/r/programming is a reddit for discussion and news about computer programming
+
+Guidelines
+
+    Please try to keep submissions on topic and of high quality.
+    Just because it has a computer in it doesn't make it programming.
+    Memes and image macros are not acceptable forms of content.
+    If there is no code in your link, it probably doesn't belong here.
+    App demos should include code and/or architecture discussion.
+    Please follow proper reddiquette.
+
+Info
+
+    Do you have a question? Check out /r/learnprogramming, /r/cscareerquestions, or Stack Overflow.
+    Do you have something funny to share with fellow programmers? Please take it to /r/ProgrammerHumor/.
+    For posting job listings, please visit /r/forhire or /r/jobbit.
+    Check out our faq. It could use some updating.
+    If you're an all-star hacker (or even just beginning), why not join the discussion at /r/redditdev and steal our reddit code!
+
+Related reddits
+
+    /r/technology
+    /r/ProgrammerTIL
+    /r/learnprogramming
+    /r/askprogramming
+    /r/coding
+    /r/compsci
+    /r/dailyprogrammer
+    /r/netsec
+    /r/webdev
+    /r/web_design
+    /r/gamedev
+    /r/cscareerquestions
+    /r/reverseengineering
+    /r/startups
+    /r/techsupport
+
+Specific languages
+created by speza community for 11 years
+message the moderators
+MODERATORS
+
+    ketralnis
+    spez
+    Poromenos
+    tryx
+    dons
+    masta
+    kylev
+    chromakode
+    a_redditor
+    about moderation team »
+
+2
+
+12 Week Developer Program from Coder Camps (codercamps.co)
+
+promoted by CoderCampsSEM
+
+    promoted
+
+1
+679
+
+Five Reasons Why You Should Hire an Old Programmer (joshondesign.com)
+
+submitted 11 hours ago by RainbowNowOpen
+
+    390 commentsshare
+
+2
+47
+
+RPCS3 June progress report (rpcs3.net)
+
+submitted 4 hours ago by kirbyfan64sos
+
+    8 commentsshare
+
+3
+452
+
+TDD did not live up to my expectations (blogs.msdn.microsoft.com)
+
+submitted 19 hours ago by mark-henry
+
+    223 commentsshare
+
+4
+20
+
+Light Web-Pages: a completely “free” alternative to Google's AMP, facebook's Instant Articles et al. (github.com)
+
+submitted 4 hours ago by boramalper
+
+    17 commentsshare
+
+5
+72
+
+Porting a 15 year old .NET 1.1 Virtual CPU Tiny Operating System school project to .NET Core 2.0 (hanselman.com)
+
+submitted 11 hours ago by mattwarren
+
+    7 commentsshare
+
+6
+77
+
+Screamin' fast webapps with WebAssembly (medium.com)
+
+submitted 12 hours ago by mcmouse2k
+
+    64 commentsshare
+
+7
+31
+
+Explanation why most SQL queue implementations are wrong. And how to do it right. (blog.2ndquadrant.com)
+
+submitted 8 hours ago by MarkusWinand
+
+    19 commentsshare
+
+8
+11
+
+How I found a bug in Intel Skylake processors (gallium.inria.fr)
+
+submitted 2 hours ago by Antrikshy
+
+    commentshare
+
+9
+202
+
+Java 9 modules accepted, September release on track (infoworld.com)
+
+submitted 21 hours ago by nugatty
+
+    29 commentsshare
+
+10
+25
+
+Announcing Scala.js 1.0.0-M1 (scala-js.org)
+
+submitted 10 hours ago by simon_o
+
+    9 commentsshare
+
+11
+1243
+
+Images with all colors (codegolf.stackexchange.com)
+
+submitted 1 day ago by dharmatech
+
+    61 commentsshare
+
+12
+23
+
+Better Software Design with Clean Architecture (fullstackmark.com)
+
+submitted 11 hours ago by asadlambdatest
+
+    3 commentsshare
+
+13
+4
+
+The broken windows theory or "Why some projects are just destined to suck" (frederickvanbrabant.com)
+
+submitted 2 hours ago by Saltones
+
+    1 commentshare
+
+14
+302
+
+Bitcoin mining on a vintage Xerox Alto: very slow at 1.5 hashes/second (righto.com)
+
+submitted 1 day ago by gkbrk
+
+    24 commentsshare
+
+15
+•
+
+One practical application of functional programming (johndcook.com)
+
+submitted 59 minutes ago by alexeyr
+
+    commentshare
+
+16
+18
+
+Modern C++ Programming Cookbook Review (bfilipek.com)
+
+submitted 12 hours ago by joebaf
+
+    commentshare
+
+17
+•
+
+This app uses artificial intelligence to turn design mockups into source code (thenextweb.com)
+
+submitted 57 minutes ago by lightninhopkins
+
+    commentshare
+
+18
+3
+
+How to design and code Alexa skills for Amazon’s Echo Show (makcorps.com)
+
+submitted 4 hours ago by manthan1234
+
+    commentshare
+
+19
+1
+
+Finding Time to Become a Better Developer (medium.freecodecamp.org)
+
+submitted 2 hours ago by Saltones
+
+    commentshare
+
+20
+1
+
+The Single Responsibility Principle (davidtanzer.net)
+
+submitted 3 hours ago by dfabulich
+
+    commentshare
+
+21
+•
+
+RankPL: a Qualitative Probabilistic Programming Language (github.com)
+
+submitted 7 minutes ago by tarantara
+
+    commentshare
+
+22
+•
+
+Static Analysis as Part of the Development Process in Unreal Engine (unrealengine.com)
+
+submitted 11 minutes ago by Coder_CPP
+
+    commentshare
+
+23
+•
+
+Parasitic Programming Languages (infoq.com)
+
+submitted 11 minutes ago by ledgerdev
+
+    commentshare
+
+24
+3
+
+My current side project: /r/SolutionGambling, a subreddit featuring gambling games driven by Python dealer bots, with the source included (reddit.com)
+
+submitted 6 hours ago by eganwall
+
+    commentshare
+
+25
+2
+
+Microservices Patterns With Envoy Proxy, Part III: Distributed Tracing (blog.christianposta.com)
+
+submitted 4 hours ago by mmaksimovic
+
+    commentshare
+
+view more: next ›
+
+    about
+    blog
+    about
+    source code
+    advertise
+    careers
+
+    help
+    site rules
+    FAQ
+    wiki
+    reddiquette
+    mod guidelines
+    contact us
+
+    apps & tools
+    Reddit for iPhone
+    Reddit for Android
+    mobile website
+    buttons
+
+    <3
+    reddit gold
+    redditgifts
+
+Use of this site constitutes acceptance of our User Agreement and Privacy Policy. © 2017 reddit inc. All rights reserved.
+
+REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
+
+Advertise - technology
+
+π

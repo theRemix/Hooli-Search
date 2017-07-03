@@ -1,0 +1,164 @@
+[
+  {
+    "title" : "JavaScript Tutorial - W3Schools",
+    "url" : "https://www.w3schools.com/js/",
+    "short_description" : "JavaScript is the programming language of HTML and the Web. JavaScript is easy to learn.",
+    "content_cache" : "JavaScript Tutorial - W3Schools.txt"
+  },
+  {
+    "title" : "JavaScript",
+    "url" : "https://www.javascript.com/",
+    "short_description" : "Learn JavaScript and stay connected with the latest news created and curated by the JavaScript community.",
+    "content_cache" : "JavaScript.txt"
+  },
+  {
+    "title" : "JavaScript - Wikipedia",
+    "url" : "https://en.wikipedia.org/wiki/JavaScript",
+    "short_description" : "JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated as JS, is a high-level, dynamic, weakly typed, object-based, multi-paradigm, and interpreted programming language.",
+    "content_cache" : "JavaScript - Wikipedia.txt"
+  },
+  {
+    "title" : "JavaScript | MDN",
+    "url" : "https://developer.mozilla.org › MDN › Web technology for developers",
+    "short_description" : "JavaScript (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the ...",
+    "content_cache" : "JavaScript | MDN.txt"
+  },
+  {
+    "title" : "JavaScript | Codecademy",
+    "url" : "https://www.codecademy.com/learn/javascript",
+    "short_description" : "Continue your learning by starting JavaScript . Start · Want more practice and ... JavaScript is the programming language of the web. It's one of the most popular ...",
+    "content_cache" : "JavaScript | Codecademy.txt"
+  },
+  {
+    "title" : "Learn JavaScript | Codecademy",
+    "url" : "https://www.codecademy.com/learn/learn-javascript",
+    "short_description" : "Course Outcomes. Learn JavaScript will teach you the most fundamental concepts in programming JavaScript. You'll learn about data types, functions, loops, ...",
+    "content_cache" : "Learn JavaScript | Codecademy.txt"
+  },
+  {
+    "title" : "JavaScript – Hacker Noon",
+    "url" : "https://hackernoon.com/javascript/home",
+    "short_description" : "JavaScript is a high-level, dynamic, untyped, & interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies ...",
+    "content_cache" : "JavaScript – Hacker Noon.txt"
+  },
+  {
+    "title" : "Learn JavaScript | Code School",
+    "url" : "https://www.codeschool.com/learn/javascript",
+    "short_description" : "JavaScript is a powerful and popular language for programming on the web. These courses will give you a strong foundation in the JavaScript language so ...",
+    "content_cache" : "Learn JavaScript | Code School.txt"
+  },
+  {
+    "title" : "Learn JavaScript - Android Apps on Google Play",
+    "url" : "https://play.google.com/store/apps/details?id=com.sololearn.javascript&hl=en",
+    "short_description" : "We're moving to our new free All-in-One app! Get it here: https://play.google.com/store/apps/details?id=com.sololearn. Learn JavaScript in a greatly improved ...",
+    "content_cache" : "Learn JavaScript - Android Apps on Google Play.txt"
+  },
+  {
+    "title" : "JavaScript: The World's Most Misunderstood Programming Language",
+    "url" : "http://javascript.crockford.com/javascript.html",
+    "short_description" : "JavaScript, aka Mocha, aka LiveScript, aka JScript, aka ECMAScript, is one of the world's most popular programming languages. Virtually every personal ...",
+    "content_cache" : "JavaScript: The Worlds Most Misunderstood Programming Language.txt"
+  },
+  {
+    "title" : "What is Programming? (video) | Khan Academy",
+    "url" : "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=0ahUKEwjp2pW_8u3UAhWLsVQKHZVWChgQtwIIfjAR&url=https%3A%2F%2Fwww.khanacademy.org%2Fcomputing%2Fcomputer-programming%2Fprogramming%2Fintro-to-programming%2Fv%2Fprogramming-intro&usg=AFQjCNHRLmR0tzeJmy7bGKy7m6zw2zsv4Q",
+    "short_description" : "Programming is the process of creating a set of instructions that tell a computer how to perform a task ...",
+    "content_cache" : "What is Programming? (video) | Khan Academy.txt"
+  },
+  {
+    "title" : "Learning programming on Khan Academy (article) | Khan Academy",
+    "url" : "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=0ahUKEwjp2pW_8u3UAhWLsVQKHZVWChgQFgiFATAS&url=https%3A%2F%2Fwww.khanacademy.org%2Fcomputing%2Fcomputer-programming%2Fprogramming%2Fintro-to-programming%2Fa%2Flearning-programming-on-khan-academy&usg=AFQjCNE_X3x2zKpWUJ8miX3egAyE2sAFPQ",
+    "short_description" : "Read and learn for free about the following article: Learning programming on Khan Academy.",
+    "content_cache" : "Learning programming on Khan Academy (article) | Khan Academy.txt"
+  },
+  {
+    "title" : "Computer programming - Wikipedia",
+    "url" : "https://en.wikipedia.org/wiki/Computer_programming",
+    "short_description" : "Computer programming (often shortened to programming) is a process that leads from an original formulation of a computing problem to executable computer programs.",
+    "content_cache" : "Computer programming - Wikipedia.txt"
+  },
+  {
+    "title" : "Programming - Reddit",
+    "url" : "https://www.reddit.com/r/programming/",
+    "short_description" : "Just because it has a computer in it doesn't make it programming. Memes and image macros are not acceptable forms of content. If there is no code in your link, ...",
+    "content_cache" : "Programming - Reddit.txt"
+  },
+  {
+    "title" : "Programming Basics",
+    "url" : "http://www.programmingbasics.org/",
+    "short_description" : "Programming Basics: A website for teaching people how to program. Programming Basics requires Java 1.4 or later. Most computers already come with this ...",
+    "content_cache" : "Programming Basics.txt"
+  },
+  {
+    "title" : "Introduction to Computer Programming - What Is It",
+    "url" : "http://guyhaas.com/bfoit/itp/Programming.html",
+    "short_description" : "Programming in a natural language, say the full scope of the English language, seems like a very difficult task. But, before moving on to languages we can write ...",
+    "content_cache" : "Introduction to Computer Programming - What Is It.txt"
+  },
+  {
+    "title" : "1.4. What Is Programming? — Problem Solving with Algorithms and ...",
+    "url" : "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&cad=rja&uact=8&ved=0ahUKEwjp2pW_8u3UAhWLsVQKHZVWChgQFgisATAX&url=http%3A%2F%2Finteractivepython.org%2Fcourselib%2Fstatic%2Fpythonds%2FIntroduction%2FWhatIsProgramming.html&usg=AFQjCNHHygpjqYZJr2yuDRh3LrZsW_8EUg",
+    "short_description" : "Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer. Although ...",
+    "content_cache" : "1.4. What Is Programming — Problem Solving with Algorithms and.txt"
+  },
+  {
+    "title" : "Programming Courses | Coursera",
+    "url" : "https://www.coursera.org/courses?query=programming",
+    "short_description" : "Explore Programming courses. 2000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer ...",
+    "content_cache" : "Programming Courses | Coursera.txt"
+  },
+  {
+    "title" : "Programming, Motherfucker - Do you speak it?",
+    "url" : "http://programming-motherfucker.com/",
+    "short_description" : "We are tired of being told we're socialy awkward idiots who need to be manipulated to work in a Forced Pair Programming chain gang without any time to be ...",
+    "content_cache" : "Programming, Motherfucker - Do you speak it.txt"
+  },
+  {
+    "title" : "Web development - Wikipedia",
+    "url" : "https://en.wikipedia.org/wiki/Web_development",
+    "short_description" : "Web development is a broad term for the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network).",
+    "content_cache" : "Web development - Wikipedia.txt"
+  },
+  {
+    "title" : "Web Development | Udacity",
+    "url" : "https://www.udacity.com/course/web-development--cs253",
+    "short_description" : "Starting from the basics of how the web works, you will learn everything you need to know to build your own blog and scale it to support large numbers of users.",
+    "content_cache" : "Web Development | Udacity.txt"
+  },
+  {
+    "title" : "Web Developer Jobs, Employment in Hawaii | Indeed.com",
+    "url" : "http://www.indeed.com/q-Web-Developer-l-Hawaii-jobs.html",
+    "short_description" : "Jobs 1 - 10 of 33 - 33 Web Developer Jobs available in Hawaii on Indeed.com. one search. all jobs.",
+    "content_cache" : "Web Developer Jobs, Employment in Hawaii | Indeed.com.txt"
+  },
+  {
+    "title" : "Web Developer Jobs, Employment in Honolulu, HI | Indeed.com",
+    "url" : "http://www.indeed.com/q-Web-Developer-l-Honolulu,-HI-jobs.html",
+    "short_description" : "Jobs 1 - 10 of 31 - 31 Web Developer Jobs available in Honolulu, HI on Indeed.com. one search. all jobs.",
+    "content_cache" : "Web Developer Jobs, Employment in Honolulu, HI | Indeed.com.txt"
+  },
+  {
+    "title" : "Web Development 101: What is a Web Developer? - Upwork Blog",
+    "url" : "https://www.upwork.com/blog/2014/03/web-development-101-web-developer/",
+    "short_description" : "If you've decided not to build your own website, you may already know that you'll need a web developer to make sure the technical side of your new website ...",
+    "content_cache" : "Web Development 101: What is a Web Developer - Upwork Blog.txt"
+  },
+  {
+    "title" : "Learn how to become a web developer | Skillcrush",
+    "url" : "https://skillcrush.com/blueprint/web-developer/",
+    "short_description" : "You just need to get started, the RIGHT way, with our web developer blueprint. It's everything you need to know to become a kick-a$%, take-no-prisoners, digital ...",
+    "content_cache" : "Learn how to become a web developer | Skillcrush.txt"
+  },
+  {
+    "title" : "Web Development Courses | Coursera",
+    "url" : "https://www.coursera.org/courses?query=web%20development",
+    "short_description" : "Explore Web Development courses. 2000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer ...",
+    "content_cache" : "Web Development Courses | Coursera.txt"
+  },
+  {
+    "title" : "Web Development Online Courses: Build and Enhance Websites",
+    "url" : "https://www.udemy.com/courses/development/web-development/",
+    "short_description" : "Online courses for building websites from scratch using popular tools and languages like HTML, CSS, Python, JavaScript, and more.",
+    "content_cache" : "Web Development Online Courses: Build and Enhance Websites.txt"
+  }
+]

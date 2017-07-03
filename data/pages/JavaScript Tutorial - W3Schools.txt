@@ -1,0 +1,161 @@
+JavaScript Tutorial
+
+JavaScript is the programming language of HTML and the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
+Examples in Each Chapter
+
+With our "Try it Yourself" editor, you can change all examples and view the results.
+Example
+My First JavaScript
+
+We recommend reading this tutorial, in the sequence listed in the left menu.
+Learn by Examples
+
+Examples are better than 1000 words. Examples are often easier to understand than text explanations.
+
+This tutorial supplements all explanations with clarifying "Try it Yourself" examples.
+
+JavaScript Examples
+
+If you try all the examples, you will learn a lot about JavaScript, in a very short time!
+Why Study JavaScript?
+
+JavaScript is one of the 3 languages all web developers must learn:
+
+   1. HTML to define the content of web pages
+
+   2. CSS to specify the layout of web pages
+
+   3. JavaScript to program the behavior of web pages
+
+This tutorial is about JavaScript, and how JavaScript works with HTML and CSS.
+Did You Know?
+
+JavaScript and Java are completely different languages, both in concept and design.
+
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+You can read more about the different JavaScript versions in the chapter JS Versions.
+Learning Speed
+
+In this tutorial, the learning speed is your choice.
+
+Everything is up to you.
+
+If you are struggling, take a break, or reread the material.
+
+Always make sure you understand all the "Try-it-Yourself" examples.
+JavaScript References
+
+W3Schools maintains a complete JavaScript reference, including all HTML and browser objects.
+
+The reference contains examples for all properties and methods, and is continuously updated according to the latest web standards.
+
+Complete JavaScript Reference
+JavaScript Quiz Test
+
+Test your JavaScript skills at W3Schools!
+
+Start JavaScript Quiz!
+JavaScript Exam - Get Your Diploma!
+W3Schools Certification
+W3Schools' Online Certification
+
+The perfect solution for professionals who need to balance work, family, and career building.
+
+More than 10 000 certificates already issued!
+
+The HTML Certificate documents your knowledge of HTML.
+
+The CSS Certificate documents your knowledge of advanced CSS.
+
+The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.
+
+The jQuery Certificate documents your knowledge of jQuery.
+
+The PHP Certificate documents your knowledge of PHP and SQL (MySQL).
+
+The XML Certificate documents your knowledge of XML, XML DOM and XSLT.
+
+The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+
+COLOR PICKER
+colorpicker
+LEARN MORE
+
+Tabs
+Dropdowns
+Accordions
+Convert Weights
+Animated Buttons
+Side Navigation
+Top Navigation
+JS Animations
+Modal Boxes
+Progress Bars
+Parallax
+Login Form
+HTML Includes
+Google Maps
+Loaders
+Tooltips
+Slideshow
+Filter List
+Sort List
+SHARE
+
+
+CERTIFICATES
+
+HTML, CSS, JavaScript, PHP, jQuery, Bootstrap and XML.
+REPORT ERROR
+PRINT PAGE
+FORUM
+ABOUT
+Top 10 Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+SQL Tutorial
+PHP Tutorial
+jQuery Tutorial
+Angular Tutorial
+XML Tutorial
+Top 10 References
+HTML Reference
+CSS Reference
+JavaScript Reference
+W3.CSS Reference
+Browser Statistics
+PHP Reference
+HTML Colors
+HTML Character Sets
+jQuery Reference
+AngularJS Reference
+Top 10 Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+W3.CSS Examples
+HTML DOM Examples
+PHP Examples
+ASP Examples
+jQuery Examples
+Angular Examples
+XML Examples
+Web Certificates
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+jQuery Certificate
+PHP Certificate
+Bootstrap Certificate
+XML Certificate
+W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy. Copyright 1999-2017 by Refsnes Data. All Rights Reserved.
+Powered by W3.CSS.

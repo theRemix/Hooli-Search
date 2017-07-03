@@ -1,0 +1,57 @@
+Codecademy logo
+Hi there, this version of the JavaScript course is being taken down in Summer 2017; we recommend you try our new Learn JavaScript course. Please read our blog post for more information.
+JavaScript
+Continue your learning by starting JavaScript .
+Want more practice and review? Upgrade for the complete experience.
+9
+Quizzes
+1
+Final Project
+Get Instant Access »
+Course Outcomes
+
+This course will teach what the most fundamental programming concepts are and how to use them. You'll learn about data types, functions, loops, control flow, and objects. In the end, you'll get a chance to put everything together to build your own game!
+Why learn JavaScript?
+
+JavaScript is the programming language of the web. It's one of the most popular and in demand skills in today's job market for good reason. JavaScript not only enables you to add powerful interactions to websites, but is also the foundation of a lot of commonly used libraries (like jQuery) and frameworks (like AngularJS, ReactJS and NodeJS). As a web developer, it is essential that you have a solid understanding of this versatile language.
+Codecademy logo
+Teaching the world how to code.
+Codecademy
+About
+Stories
+We're Hiring
+For Business
+For Education
+Resources
+Articles
+Forums
+Help
+Blog
+Learn To Code
+Make a Website
+Make an Interactive Website
+Learn Sass
+Deploy a Website
+Learn JavaScript
+Learn Rails
+Learn AngularJS
+Learn ReactJS: Part I
+Learn ReactJS: Part II
+Ruby on Rails Authentication
+Learn the Command Line
+Learn Git
+Learn SQL
+SQL: Table Transformation
+SQL: Analyzing Business Metrics
+Learn Java
+Learn HTML & CSS
+Learn Responsive Design
+HTML & CSS
+JavaScript
+jQuery
+PHP
+Python
+Ruby
+Learn APIs
+Privacy PolicyTerms
+Made in NYC © 2017 Codecademy

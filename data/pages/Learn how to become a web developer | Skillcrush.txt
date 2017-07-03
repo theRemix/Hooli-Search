@@ -1,0 +1,214 @@
+skillcrush
+
+    Programs
+    Free 10-Day Bootcamp
+    Reviews
+    About
+    Blog
+    Log In
+
+Skillcrush Career Blueprint:
+Learn how to become a Web Developer
+
+Are you done making tens of thousands of dollars LESS than the technical people at your company, when you know that you are every bit as smart? You CAN learn the digital skills you need to transform your career and life.
+
+You just need to get started, the RIGHT way, with our web developer blueprint. It’s everything you need to know to become a kick-a$%, take-no-prisoners, digital native.
+Enroll Now
+What Web Developers Do:
+
+Web developers are builders and problem-solvers.
+Every single website, app, and piece of software you work on daily was created by a developer, from Snapchat and Instagram to Buzzfeed and CNN.com. Developers love to dream up a crazy idea or identify a BIG problem, and then come up with an elegant solution.
+
+If you like to make things: to build furniture, knit cozy sweaters, throw a ceramic mug, then you will love learning how to take your crazy creative vision and build it into a real-live interactive web application.
+
+Become an architect of our digital future.
+Web Developer Profile
+Martha Girdler
+
+    Title: Software Engineer
+    Company: Uber
+    Where: San Francisco, CA
+    What I Do:
+
+    I am a designer turned web developer turned software engineer. In my job now, I build software with Python and JS.
+    Why I Love It:
+
+    I get excited about building really fast systems that connect people. Also, I feel most inspired when I am thinking through difficult problems with people I admire. That is the best feeling in the world.
+    How I Got Here:
+
+    I was always interested in computers, but had no idea you could have a job programming them. As a designer I taught myself HTML and CSS, but I really learned how to program at Hacker School in NYC. Hacker School changed my life - it was a risky decision to quit my job and leave Tennessee, but it paid off considerably. I think we should all take more risks like that!
+    Advice For Aspiring Web Developers:
+
+    Do not let the "fear of looking like an idiot" get in the way of asking questions or learning new things. Programming is not so different from writing a great paper or learning a foreign language. The biggest barrier to entry is very conceptual. When you approach programming with an intense willingness to learn, amazing things will happen.
+
+Job Perks
+
+    In demand
+    Flexible hours
+    Work from anywhere
+    Well-paid
+
+The Numbers
+
+    $76k
+
+    30,000
+
+    20%
+
+    70%
+
+The Web Developer Blueprint is a 3-month long Blueprint that includes everything you could possibly need to get started the right way: structured lessons, useful exercises, master classes with experts, killer cheatsheets and instructors there at every step along the way! Your Blueprint is structured around three core classes:
+blueprint class outline
+Your First Class
+Skillcrush 101:
+HTML & CSS
+
+Don’t know the first thing about technology? Then this class is for you. HTML and CSS are the building blocks of the web. Learn how to structure, design and launch your own website in class. Don’t worry about getting stuck – We’re here to answer any questions you have along the way!
+
+YOU WILL LEARN: HTMLCSSFTPDomainsHosting
+Jul
+10
+
+This class begins Monday, July 10th.
+Your Second Class
+Skillcrush 102:
+JavaScript & jQuery
+
+The web is an interactive medium! Learn how to design engaging user experiences and then translate those dreams into motion using JavaScript and jQuery. JavaScript is fast becoming THE language of the mobile web, and jQuery is the #8 fastest growing job keyword!
+
+YOU WILL LEARN: JavaScriptjQuery
+Aug
+07
+
+This class begins Monday, August 7th.
+Your Third Class
+Skillcrush 104:
+Ruby, Git & The Command Line
+
+Once you’ve learned how to build the front end of a site, learn how to make it function with Ruby, a back-end programming language! And then create your very own weather forecasting app.
+
+YOU WILL LEARN: RubyCommand LineGit & GitHub
+Sep
+11
+
+This class begins Monday, September 11th.
+What's Included with Your Enrollment.
+
+    Workshops on Command Line & Git
+    15 Awesome Cheatsheets
+    Master Classes
+    Cover Letter and Interview Guides
+    A Professional-Looking Portfolio
+    Certificate of Completion
+    Practical Training That Fits Your Schedule
+    A Community of Impressive Fellow Students
+    Expert Support & Mentorship From Super-Friendly Instructors
+
+Frequently Asked Questions:
+
+What previous knowledge do I need to take this course?
+
+None! As long as you’re pretty familiar with your computer and how to use it and are comfortable on the web, we’ll teach you the rest.
+
+I’m looking to transition into a more technical role at work. Will this blueprint help me?
+
+Yes! HTML and CSS are the building blocks of the web and the foundation on which you can build your technical career. Plus, Javascript is one of the top ten most in-demand skills according to hiring managers, and Ruby is one of the most popular programming languages today (and one of the easiest to get the hang of quickly).
+
+There are many places to start in tech, but learning the fundamentals of the web and programming and building projects from scratch – both of which you’ll do in this Blueprint – will give you a wide variety of the most important tech skills. So, you’ll leave this Blueprint with a solid understanding with which you can continue your professional transition into tech.
+
+I work full time. Can I fit this course into my busy schedule?
+
+Absolutely! We recommend setting aside about an hour a day to engage with the course materials and your classmates and instructors, but you can shift this around depending on your weekly schedule.
+
+Some of our students can’t devote an hour every day to the course but can study for longer periods of time over the weekend — This is totally fine too, and our material is always available for you when you need it.
+
+What if I get behind in the course? Will the lessons still be available to me?
+
+Yes, absolutely! You’ll continue to have access to the course well beyond the “official” course dates so you can catch up or review whenever and whatever you like.
+
+Really, there is no “behind” at Skillcrush. We 100% support you in going through the material at a pace that feels right to YOU.
+
+What kind of computer or software do I need for this course?
+
+Nothing fancy! You just need a computer with access to the web, of course. You should be able to stream YouTube or Vimeo videos and download / upload materials like photos and documents.
+
+We recommend a Mac for the course and for your future career in tech as Macs tend to be the industry standard. But a Windows PC will work fine too.
+
+You don’t need to have any special software before you start the Blueprint. We’ll introduce you to all the software or apps you need as you go through the course, and there are free versions or trials of all of them available for both Mac and Windows.
+
+Do you provide any printable materials I can access?
+
+Yes indeed! We have several very popular cheatsheets that we tell our students to print out and carry with them or tape up around the house. You’d be surprised how much you can actually learn by just looking at them for a few minutes a day!
+
+
+How do I know if this Blueprint is for me?
+
+This Blueprint is for you if:
+
+    You want to get started in tech but don’t know how to begin.
+    You are itching to code.
+    You’ve dabbled in HTML and CSS but need to learn the fundamentals.
+    You have been meaning to make your own website FOREVER.
+    You like learning to be fun and collaborative.
+
+This Blueprint is NOT for you if:
+
+    You’ve already designed and coded your own websites from scratch.
+    You’re looking to learn advanced topics such as back-end programming.
+    You want to make mobile apps.
+    You think learning has to be serious.
+    You don’t like fun or collaboration.
+
+When does the course meet?
+
+The course doesn’t meet at fixed times. All the lessons are online, and you have access to them 24/7 so you can study whenever is best for you.
+
+Throughout the course, we send you an email every weekday morning to help keep you on track, and then you’re welcome to work on the lessons whenever it fits your schedule.
+
+The only “scheduled” course events are the circle chats, live group office hours and master classes. But these are all optional, and, if you can’t make the scheduled time, you can read a transcript of the circle chat, ask questions in the online student community or watch the recording of the master class later. So, there’s always a way to fit the Blueprint into your life!
+
+How do office hours work?
+
+We offer live office hours using Google+ Hangouts. Group office hours give us the chance to help as many students as possible. And we’ve found that, since students tend to have similar questions and challenges, you’ll learn a lot from hearing answers to other students’ questions too. That said, you’ll also have the chance to ask your own questions from the instructor and make sure you get the answers you need as well.
+
+I’ve been looking at a bunch of other online bootcamps and programs and they are all thousands of dollars. How come you are so cheap?
+
+Our thoughts exactly!? Did we say $499? We MEANT $4999!
+
+In all seriousness, we price our blueprints according to what we need to charge in order to be a profitable company, provide the level of service that we believe YOU ALL deserve, while also keeping the price point accessible to our audience.
+
+We can’t promise it will always be $499, but for now it’s a price that works for us and works for our students. And you have our 100% money-back guarantee for the first 30 days of your Blueprint.
+
+So stop asking questions and just be glad you found us!
+
+
+
+How does the online student community work?
+
+We use Google Groups for our online student community. It’s completely free, and we’ll send you an invitation to your Blueprint’s own group before your course starts.
+
+In your student community, you can meet your classmates, ask questions about the lessons, get feedback on your work, share tech resources and much more! Plus, it’s a great chance to get to know other people who are just as excited about tech as you are and to start networking and making great friends and career connections.
+
+Is Skillcrush only for women? I’m a guy and want to learn.
+
+We welcome men at Skillcrush as well and can’t wait for you to join us too! In fact, about 25% of our students are men. Skillcrush is a supportive community of folks from all kinds of backgrounds, professions, countries and yes… genders! :). So, please join us – and bring a friend!
+
+Can I really learn enough in this program to get a job?
+
+Well, tell us, what job exactly are you looking for? CTO at Apple? Ok, probably not. Jr. Frontend engineer at a design agency? YES YOU CAN. Becca did it!
+
+We don’t place students in jobs (yet) and we can’t guarantee you work. But many of our students have gotten full-time work using the skills they learned at Skillcrush, and even MORE have used their new skills to do freelance, project based work that has earned them thousands of dollars on top of their full-time salaries.
+
+The best thing for you to do is to be crystal clear about what job you want and what skills and experience you will need in order to get it. If you can tell us that, we will do everything in our power to help you get there.
+
+And if you can’t answer those questions yet, no worries, we’ll work with you on that TOO.
+What Are You Waiting For?
+Invest In Yourself, Invest In Your Future.
+
+Our Blueprints come out to around $5 a day. Less than HALF the price of comparable programs – and 100% more fun! You can make 3 monthly payments of $199 or a full payment of $499, whatever fits your life and budget.
+Blueprints start July 10th, 2017. Enroll now!
+Enroll Now
+· You can make 3-monthly payments of $199 or one payment of $499 ·
+Terms of Use Privacy Policy Have a question? Email us at hello@skillcrush.com
+Follow @skillcrush © 2017 Skillcrush, Inc. All Rights Reserved.

@@ -1,0 +1,49 @@
+Codecademy logo
+Learn JavaScript
+Continue your learning by starting Learn JavaScript.
+Codecademy logo
+In 8 weeks, learn to build professional websites with HTML, CSS, JavaScript, and GitHub.
+Course Outcomes
+
+Learn JavaScript will teach you the most fundamental concepts in programming JavaScript. You'll learn about data types, functions, loops, and control flow. In this course, you'll build projects with JavaScript that make HTML and CSS come to life.
+Codecademy logo
+Teaching the world how to code.
+Codecademy
+About
+Stories
+We're Hiring
+For Business
+For Education
+Resources
+Articles
+Forums
+Help
+Blog
+Learn To Code
+Make a Website
+Make an Interactive Website
+Learn Sass
+Deploy a Website
+Learn JavaScript
+Learn Rails
+Learn AngularJS
+Learn ReactJS: Part I
+Learn ReactJS: Part II
+Ruby on Rails Authentication
+Learn the Command Line
+Learn Git
+Learn SQL
+SQL: Table Transformation
+SQL: Analyzing Business Metrics
+Learn Java
+Learn HTML & CSS
+Learn Responsive Design
+HTML & CSS
+JavaScript
+jQuery
+PHP
+Python
+Ruby
+Learn APIs
+Privacy PolicyTerms
+Made in NYC © 2017 Codecademy

@@ -1,0 +1,220 @@
+Skip to content
+
+Code School
+
+    Learn
+    Pricing
+    Business
+    Create Free Account
+    Sign in
+
+Path
+JavaScript
+
+Spend some time with this powerful scripting language and learn to build lightweight applications with enhanced user interfaces.
+Enroll Now
+
+    PathsJavaScript
+
+JavaScript Language
+0/5 Complete
+
+JavaScript is a powerful and popular language for programming on the web. These courses will give you a strong foundation in the JavaScript language so you’ll be ready to move up to frameworks like Angular and Node.js.
+Bookmark
+JavaScript Road Trip Part 1 Completion Badge
+Course
+JavaScript Road Trip Part 1
+
+An introduction to the very basics of the JavaScript language.
+Bookmark
+JavaScript Road Trip Part 2 Completion Badge
+Course
+JavaScript Road Trip Part 2
+
+A continued introduction to the very basics of the JavaScript language.
+Bookmark
+JavaScript Road Trip Part 3 Completion Badge
+Course
+JavaScript Road Trip Part 3
+
+Build important intermediate skills within the JavaScript language.
+Bookmark
+ES2015: The Shape of JavaScript to Come Completion Badge
+Course
+ES2015: The Shape of JavaScript to Come
+
+Rock through some of the newest and most interesting features of this updated version of JavaScript.
+Bookmark
+JavaScript Best Practices Completion Badge
+Course
+JavaScript Best Practices
+
+Explore useful tips for informed and improved JavaScript development.
+jQuery
+0/2 Complete
+
+jQuery is a library built with JavaScript that helps you load dynamic content into pages, animate page elements, and handle user events without worrying about differences in the way browsers interpret code. These courses take you from your very first jQuery selector all the way through more advanced topics, such as promises and Ajax calls.
+Bookmark
+Try jQuery Completion Badge
+Free Course Free
+Try jQuery
+
+Learn the basic building blocks of jQuery.
+Bookmark
+jQuery: The Return Flight Completion Badge
+Course
+jQuery: The Return Flight
+
+Learn to use Ajax and create interactive user experiences.
+Client-side Frameworks
+0/7 Complete
+
+If you’re building a large JavaScript application, using one of these frameworks to organize your code will help. In these courses, you’ll learn all about the conventions of each framework to help you write cleaner, more efficient code.
+Bookmark
+Accelerating Through Angular Completion Badge
+Course
+Accelerating Through Angular
+
+Learn how to use Angular with TypeScript to create dynamic web applications.
+Bookmark
+Powering Up With React Completion Badge
+Course
+Powering Up With React
+
+Learn how to build user interfaces for the web with React.
+Bookmark
+Try Ember Completion Badge
+Course
+Try Ember
+
+Build your next ambitious web application with Ember.
+Bookmark
+Shaping Up With AngularJS Completion Badge
+Free Course Free
+Shaping Up With AngularJS
+
+Learn to extend HTML's syntax with AngularJS to create dynamic web applications.
+Bookmark
+Staying Sharp With AngularJS Completion Badge
+Course
+Staying Sharp With AngularJS
+
+Use AngularJS to create flexible directives and reusable services for a modular and speedy app!
+Bookmark
+Anatomy of Backbone.js Completion Badge
+Course
+Anatomy of Backbone.js
+
+Build sophisticated applications with Backbone.js.
+Bookmark
+Anatomy of Backbone.js Part 2 Completion Badge
+Course
+Anatomy of Backbone.js Part 2
+
+Take your front-end to the next level.
+Server-side Frameworks
+0/2 Complete
+
+JavaScript can also be used to write server-side code using Node.js. These courses teach you how to write server-side applications with JavaScript.
+Bookmark
+Real-time Web with Node.js Completion Badge
+Course
+Real-time Web with Node.js
+
+Build lightweight, real-time applications with Node.js.
+Bookmark
+Building Blocks of Express.js Completion Badge
+Course
+Building Blocks of Express.js
+
+Learn how to build Web APIs in Node.js using Express.
+CoffeeScript
+0/1 Complete
+
+Once you’re comfortable with JavaScript, or a little sick of writing semicolons, try CoffeeScript, a beautiful language that compiles into JavaScript.
+Bookmark
+CoffeeScript Completion Badge
+Course
+CoffeeScript
+
+Try the powerful little language that compiles into JavaScript.
+The Mean Stack badge
+Want to learn the MEAN stack?
+
+MEAN is a combination of JavaScript-based technologies (MongoDB, Express.js, AngularJS, and Node.js) used to develop web applications. Play through our MEAN-related content to collect all the skills in this full-stack development toolkit — and earn a new badge!
+View Content
+The Angular Champion badge
+Want to build an AngularJS app?
+
+The Angular framework makes it easy to create dynamic web applications with expressive HTML. Play through our Angular, Bootstrap, and Node.js courses to start building fast, flexible Angular apps — and earn the Angular Champion badge!
+View Content
+JavaScript Path Badge
+
+Courses Complete
+    0/17 (0%)
+
+My Account
+Filter courses by:
+
+    All Courses
+    JavaScript
+    es 2015
+    ES2015
+    ECMAScript2015
+    es6
+    jQuery
+    Advanced jQuery
+    MEAN stack
+    Angular
+    mean
+    Backbone.js
+    Node.js
+    CoffeeScript
+    Angular 2
+    Ember.js
+    React
+
+Screencasts
+
+In addition to our courses, we provide supplemental learning through screencasts. As you embark on the JavaScript Path, the following videos will help you study on.
+jQuery ColorBox
+JavaScript
+jQuery ColorBox
+Most Useful jQuery Libraries
+JavaScript
+Most Useful jQuery Libraries
+Knockout.js - Part 1
+JavaScript
+Knockout.js - Part 1
+View All JavaScript Screencasts
+
+    Code School
+    Courses
+    Screencasts
+    Blog
+    Pricing
+    For Business
+
+    About Us
+    Company
+    Jobs
+    Press
+    Terms of Use
+    Privacy Policy
+
+    Need Help?
+    Contact Us
+    Knowledge Base
+    Forum
+
+© 2017 Code School LLC. Crafted lovingly in Orlando, Florida.
+
+    Twitter
+    Facebook
+    Instagram
+
+Code School Download in the App Store
+
+Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. We strive to help you learn by doing.
+Learn More
+Pluralsight

@@ -1,0 +1,204 @@
+Explore
+Nanodegree
+Catalog
+For Business
+Sign In
+Get Started
+
+Master React, React & Redux, and React Native, with Udacity and React Training’s experts. Enroll now!
+Explore
+Nanodegree
+Catalog
+For Business
+Sign In
+Get Started
+Free Course
+Web Development
+
+How to Build a Blog
+Start Free Course
+Nanodegree Program
+Deep Learning Foundations
+
+Accelerate your career with the credential that fast-tracks you to job success.
+About this Course
+
+Try to picture yourself sitting down with your computer, ready to start developing a fully functional web application for the first time, available online for millions to use. “Where should I even begin? How long is this going to take me? Am I making any mistakes along the way?” The questions may leave you with an uneasy feeling that you will learn many lessons the hard way.
+
+In this intermediate course, Steve Huffman will teach you everything he wished he knew when he started building Reddit and, more recently, Hipmunk, as a lead engineer. Starting from the basics of how the web works, this course will walk you through core web development concepts such as how internet and browsers fit together, form validations, databases, APIs, integrating with other websites, scaling issues, and more; all of which form part of the knowledge it takes to build a web application of your own.
+Play Trailer
+Course Cost
+Free
+Timeline
+Approx. 3 months
+Skill Level
+Intermediate
+Included in Course
+
+    Rich Learning Content
+
+    Interactive Quizzes
+
+    Taught by Industry Pros
+
+    Self-Paced Learning
+
+    Student Support Community
+
+Join the Path to Greatness
+
+This free course is your first step towards a new career with the Deep Learning Foundations Nanodegree Program.
+Free Course
+Web Development
+
+Enhance your skill set and boost your hirability through innovative, independent learning.
+Icon steps 54aa753742d05d598baf005f2bb1b5bb6339a7d544b84089a1eee6acd5a8543d
+Nanodegree Program
+Deep Learning Foundations
+
+Accelerate your career with the credential that fast-tracks you to job success.
+Learn More
+Course Leads
+
+    Steve Huffman
+    Steve Huffman
+
+    Instructor
+    Sean Bennett
+    Sean Bennett
+
+    Instructor
+
+What You Will Learn
+Lesson 1
+How the Web Works
+
+    Learn basic concepts regarding the internet, browsers, and HTML.
+    Start using HTML (HyperText Markup Language) to format content for webpages.
+    HyperText Transfer Protocol (HTTP) via GET and POST requests.
+
+Lesson 2
+Forms and Input
+
+    Learn about forms, a very common way to obtain input from users.
+    Learn how to get and process user input from webpages using Google App Engine.
+
+Lesson 3
+Databases
+
+Lesson 4
+User Accounts and Security
+
+Lesson 5
+APIs
+
+Lesson 6
+Caching
+
+Lesson 7
+Scaling Up
+
+View All Lessons
+Prerequisites and Requirements
+
+In order to take the full advantage of this course, we want you to be well prepared for it. This course assumes an intermediate proficiency programming with Python, as well as a solid knowledge on the following topics:
+
+    Basic computer science concepts such as procedures, decision statements, and loops.
+    Basic data structures such as lists, dictionaries, and hash tables.
+    Object-oriented programming.
+
+Please feel free to peek at the Intro to Computer Science and Programming Foundations with Python courses to make sure you are comfortable with these required concepts for the course.
+
+See the Technology Requirements for using Udacity.
+Why Take This Course
+
+By taking this course, you will embark on a digital adventure to build your very own application live on the web. Valuable lessons often come from experience, and it’s from this experience that Steve brings a fresh perspective to the classroom to show you how to approach building your web application in a way that assuages the potential challenges you may face. In this course, you will learn by doing. Once you dive into the course experience, you will work on awesome projects:
+
+    Have you ever thought about what it takes to build a blog from the ground up? Over the course of six lessons, you will build a blog together with Steve that will be fully functional, online, for anybody to read by the end of the course.
+
+    Have you ever wondered how a wiki works? As a final project for this course, you will be able to take all of your newly gained knowledge and apply it to build a complete wiki.
+
+This course concentrates on back-end development, but regardless if you are interested in front-end development, back-end development, or anywhere in between the stack, this course will teach you the fundamental knowledge you need break into the web development world. Are you ready to dive in?
+What do I get?
+
+    Instructor videos
+    Learn by doing exercises
+    Taught by industry professionals
+
+Related Free Courses
+General
+How to Make a Platformer Using libGDX
+General
+2D Game Development with libGDX
+General
+Mobile Web Development
+General
+Make Your Own 2048
+General
+HTTP & Web Servers
+General
+Engagement & Monetization | Mobile Games
+Popular Free Courses
+Digital Marketing
+Digital Marketing Fundamentals
+Non-Tech
+Product Design
+Digital Marketing
+Email Marketing
+
+    Featured Programs
+        Android Basics
+        Android Developer
+        Become an iOS Developer
+        Business Analyst
+        Data Analyst
+        Front-End Web Developer
+        Full Stack Web Developer
+        Intro to Programming
+        React
+    Only At Udacity
+        Artificial Intelligence
+        Deep Learning Foundations
+        Digital Marketing
+        Machine Learning Engineer
+        Robotics
+        Self-Driving Car Engineer
+        VR Developer
+    Resources
+        Catalog
+        Career Resource Center
+        Hiring Partners
+        Student Success
+        Udacity Connect
+        Udacity Talks
+        Scholarships
+    Programs
+        Nanodegree Plus
+        Veterans
+        Georgia Tech
+        Udacity Self-Driving Car
+    Company
+        About
+        Blog
+        In the News
+        Jobs
+        Mobile
+        Udacity Intersect
+    Business
+        Udacity for Business
+        Corporate Training
+        Hire Graduates
+    Support
+        Contact Us
+        Help and FAQ
+        Service Status
+        Course Guides
+
+    © 2011–2017 Udacity, Inc.
+    Legal & Privacy Regulatory Information Site Map
+
+United States
+
+"Nanodegree" is a registered trademark of Udacity. © 2011–2017 Udacity, Inc.
+
+Udacity is not an accredited university and we don't confer traditional degrees. Udacity Nanodegree programs represent collaborations with our industry partners who help us develop our content and who hire many of our program graduates.

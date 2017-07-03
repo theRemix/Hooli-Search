@@ -1,0 +1,182 @@
+Skip to main content
+Subjects
+Search
+New user / Sign up
+Main content
+Computer programming Intro to JS: Drawing & Animation
+Intro to programming
+What is Programming?
+Learning programming on Khan Academy
+Next tutorial
+Drawing basics
+Learning programming on Khan Academy
+Google ClassroomFacebookTwitterEmail
+In this course, we'll be teaching the concepts of the JavaScript programming language and the cool functions you can use with it in the ProcessingJS library. Before you dig in, here's a brief tour of how we teach programming here on Khan Academy, and how we think you can learn the most.
+Normally, we teach on Khan Academy using videos, but here in programming land, we teach with something we call "talk-throughs". A talk-through is like a video, but it's actually interactive- you can pause at any time if you want to play with the code yourself, and you can spin-off if you want to make your own version of what we made.  Here's an animated GIF of a talk-through (there will be sound in the actual talk-throughs!):
+An animated GIF of the "More with variables" talk-through
+After a talk-through, we'll give you a step-by-step coding challenge and guide you through them with messages and hints. If you feel like you're spending too much time on a challenge and getting frustrated, try re-watching the talk-through or just keep going and re-visit the challenge later. Here's an animated GIF of the Bucktooth Bunny challenge:
+An animated GIF of the Bucktooth Bunny coding challenge
+When you're learning to program, you've got to practice-practice-practice. The challenges are a good way to try out what you've learned, but we want you to go deeper. That's why we now have projects in the course, opportunities to spend a lot more time and be more creative than you can be in the challenges. Some of the projects will be evaluated by your peers, and some just by yourself. You'll also evaluate some of your peer's projects, so you can learn from them. In programming land, we're constantly learning from our peers, there's always something new to learn!
+A screenshot of the "What's for Dinner?" project.
+Besides the projects, you should also make up completely new programs, whatever's in your head. Just click "New program" on the programming homepage, and look at the documentation to remember how to do things.
+And hey, it's totally okay to make mistakes. That's what programmers do all the time - we break things, we make mistakes, we learn from them.
+A screenshot of a new program with an error in it.
+Once you've made a program, you can save it and share it with your friends and family. It'll also show up in our community programs area, and other programmers can comment on it or ask you questions about how you did something. You can do the same for any interesting programs you find, too, and if you have an idea for customizing a program you see, just click "Save as spin-off" and you'll have your own copy of it.
+All in all, there are 40 talk-throughs, 35 challenges, and 9 projects in this course, and it takes about 15-40 hours to complete, depending how wild you go with your projects. That might seem like a lot of time, but it's worth it, because at the end, you'll know the fundamentals of programming that are common across all programming languages.
+Welcome to programming land: we're a community learning together and inspiring each other to turn the visions in our head into reality. Onward!
+Start learning now ➜
+P.S. If you'd like and you have the time, you can also watch this video tour I put together:
+Ask a question
+
+    Questions Tips & Thanks
+
+Top Recent
+Is there a way to search for a specific community program, either by title or by author? Currently all i see are categories: Hot, Recent, Contests, or Top. The search function at the top of the page seems to be limited to official content.
+Incredible Question Great Question Good Question • 489 Votes
+• 21 Comments • Flag jackacid's comment
+2 years ago by View profile for: jackacid
+Good question!
+When I search for my programs, I often get a link to my projects, but not my program. When I search for a hot list program, it often links me to the hot list and not the program.
+Finding users by searching... there are a few ways to do it.
+When I search for a user by their real name, it takes me to their discussion. If I search using their username, it links me to their profile.
+The search engine isn't always consistent, and there are many exceptions.
+Incredible Answer Great Answer Good Answer • 178 Votes
+• 8 Comments • Flag Jett Burns's comment
+about a year ago by View profile for: Jett Burns
+Show all 14 answers to jackacid's question • Answer this question
+I've finished the Intro to JS, but I am not sure what exactly is the "fundamentals of programming that are common across all programming languages." Could someone explain?
+Incredible Question Great Question Good Question • 150 Votes
+• 7 Comments • Flag tk12's comment
+2 years ago by View profile for: tk12
+Fairly common among all programming languages include: variable, arrays, strings, numbers, objects, conditionals, loops, functions, expressions.
+Incredible Answer Great Answer Good Answer • 152 Votes
+• 3 Comments • Flag Bob Lyon's comment
+2 years ago by View profile for: Bob Lyon
+Show all 10 answers to tk12's question • Answer this question
+Is it possible to learn java s. and c# at the same time? if so I need help who can assist me.
+Incredible Question Great Question Good Question • 72 Votes
+• 20 Comments • Flag paul mnindi's comment
+2 years ago by View profile for: paul mnindi
+I've found that when I have students trying to learn multiple programming languages that share syntactical elements, it is much more confusing for them. Usually they forget what language allows or prohibits certain behaviors. I'd suggest getting the fundamentals down first and then add new languages. Otherwise, you may find yourself giving up in frustration or at the least struggling way more than is needed. JMHO.
+Incredible Answer Great Answer Good Answer • 115 Votes
+• 4 Comments • Flag trek's comment
+2 years ago by View profile for: trek
+Show all 17 answers to paul mnindi's question • Answer this question
+I would like to program an ebook to be read from a web browser. I already have the following files: MP3s of read text for each page, text to be placed at the bottom of each page, JPG image for each page.
+
+I would like to put all these files into one folder and write some kind of html/xtml header file that tells the web browser how to display the individual pages of the ebook: when to play the MP3 of the page text, when to turn to the next page, etc.
+
+My question: What type of programming do I… (readmoreof this comment)
+Incredible Question Great Question Good Question • 71 Votes
+• 2 Comments • Flag Edward Santoro's comment
+2 years ago by View profile for: Edward Santoro
+that is a great help to me.
+3 Votes
+• 1 Comment • Flag Aidan Murphy's comment
+5 months ago by View profile for: Aidan Murphy
+Show all 3 answers to Edward Santoro's question • Answer this question
+Why you guys use processing JS? It is not real JavaScript.
+Incredible Question Great Question Good Question • 55 Votes
+• 3 Comments • Flag Kevin Zhang's comment
+2 years ago by View profile for: Kevin Zhang
+So they (Khan academy) had to choose a code language that even absolute beginners in coding could grasp the basics in and be able to do easily and not get frustrated and quite. On the first day I started I really thought I wouldn't be able grasp it( you know, the old dogs can't learn new tricks thing) but I stuck with it and as I do the small projects and watch the walk through videos and read the essays, I am understanding code more and more. I still can't answer every single question we are… (readmoreof this comment)
+Great Answer Good Answer • 37 Votes
+• 1 Comment • Flag Kathy Johnson's comment
+6 months ago by View profile for: Kathy Johnson
+Show all 12 answers to Kevin Zhang's question • Answer this question
+Is there a way you can program your own version of a music video? (like cartoon characters in the place of the people) Or make your own voiced cartoon episode?
+Good Question • 12 Votes
+• 2 Comments • Flag ChaosEclips's comment
+3 months ago by View profile for: ChaosEclips
+all you have to do is go through all the programs again to learn it again.
+7 Votes
+• Comment on jermaineljones215's question • Flag jermaineljones215's comment
+3 months ago by View profile for: jermaineljones215
+Show all 4 answers to ChaosEclips's question • Answer this question
+Does Khan Academy have a video of learning Python?
+9 Votes
+• 1 Comment • Flag Grace Pellegrini's comment
+3 months ago by View profile for: Grace Pellegrini
+Not the website, but the YouTube channel does.
+Good Answer • 11 Votes
+• 2 Comments • Flag FunkyChicken's comment
+3 months ago by View profile for: FunkyChicken
+Answer this question
+
+Computer programming is also code right?
+7 Votes
+• 1 Comment • Flag eawhisenant12's comment
+11 months ago by View profile for: eawhisenant12
+Yep. That's correct.
+Good Answer • 14 Votes
+• Comment on Rathony's question • Flag Rathony's comment
+11 months ago by View profile for: Rathony
+Show all 2 answers to eawhisenant12's question • Answer this question
+How do you copy a thing on a crombook
+5 Votes
+• 1 Comment • Flag Ethan t 21713's comment
+5 months ago by View profile for: Ethan t 21713
+Can you code the koolaid man ..... Hehee
+8 Votes
+• Comment on Kyler Bolden's question • Flag Kyler Bolden's comment
+2 months ago by View profile for: Kyler Bolden
+Show all 3 answers to Ethan t 21713's question • Answer this question
+Hi, I started to learn programming because I wanted to make games, both PC and mobile.
+It seems like a pretty high goal; I started with Javascript and HTML on KA, but realized that various languages are used to create games.
+I have a few questions: I heard that Java is the language used most to make Android-compatible mobile games. Is the JavaScript taught here the same as that kind of Java, and if not, where could I learn the language used for mobile games?
+What would I need to do if I wanted to… (readmoreof this comment)
+3 Votes
+• Comment on Nagini🐍Snaketail (Duolingo German)'s question • Flag Nagini🐍Snaketail (Duolingo German)'s comment
+2 months ago by View profile for: Nagini🐍Snaketail (Duolingo German)
+Hi Nagini,
+Excellent questions! It's good to see another game-enthusiast.
+JavaScript and Java are indeed two very different language. They have next to nothing in common, despite the name.
+There are some great Java tutorials on https://www.codecademy.com/learn/learn-java and https://www.udemy.com/java-tutorial/.
+There are other tutorials, but you have to be careful. Many tutorials out there haven't been kept up to date. If you want to be absolutely sure you're learning the latest, go to the… (readmoreof this comment)
+4 Votes
+• 1 Comment • Flag Dalendrion's comment
+2 months ago by View profile for: Dalendrion
+Answer this question
+
+What is Programming?
+Site Navigation
+
+Our mission is to provide a free, world-class education to anyone, anywhere.
+
+Khan Academy is a 501(c)(3) non-profit company. Donate or Volunteer today!
+
+    About
+    News
+    Impact
+    Our team
+    Our interns
+    Our content specialists
+    Our leadership
+    Our supporters
+    Careers
+    Internships
+
+    Contact
+    Help center
+    Support community
+    Share your story
+    Press
+
+    Download our apps
+    iOS app
+    Android app
+
+    Subjects
+    Math by subject
+    Math by grade
+    Science & engineering
+    Computing
+    Arts & humanities
+    Economics & finance
+    Test prep
+    College, careers, & more
+
+Language
+© 2017 Khan Academy
+Terms of use
+Privacy notice

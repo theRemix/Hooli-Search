@@ -1,0 +1,162 @@
+    Home
+
+    About Us
+    Press
+    Hiring Headquarters
+    Enterprise Solutions
+    Privacy Policy
+
+    Search
+
+Upwork
+Upwork Blog
+
+    About Us
+    Press
+    Hiring Headquarters
+    Enterprise Solutions
+    Privacy Policy
+
+Web Development 101: What is a Web Developer?
+Startup Resources
+by Yoshitaka Shiotsu
+
+If you’ve decided not to build your own website, you may already know that you’ll need a web developer to make sure the technical side of your new website comes together smoothly.
+
+But what skills should you look for in a web developer? And do you need a web developer or a web designer — is there a difference?
+
+Here’s a closer look at the specific skills and talents your web person should have, so you can identify what you’re looking for and better understand what web-related skills are needed to build the best site for you or your business.
+What is a web developer?
+
+A web developer is a programmer who creates programs and applications for the World Wide Web. A web developer knows how to build a website from the bottom up: they can create custom code to accommodate your unique needs, developing everything from the site layout to features and functions on the webpage.
+What does a web developer do?
+
+Web development can be divided into three parts:
+
+    Client-side scripting, which is code that executes in a web browser and determines what your customers or clients will see when they land on your website.
+    Server-side scripting, which is code that executes on a web server and powers the behind-the-scenes mechanics of how a website works.
+    Database technology, which also helps keep a website running smoothly.
+
+A web developer is typically tasked with building a website from the ground up, using skills in one or more of these three areas.
+
+In fact, large-scale web projects often divide these tasks among multiple web developers: one developer may focus on setting up the back end of a site while another focuses on the client side to add style and functionality to the website itself.
+
+The advantage of building a website from the ground up is that you can create something original that fits your specific needs.
+Skills to look for in a web developer
+
+It’s easiest to look at a web developer description by splitting the skills into the three areas mentioned above: client-side languages, server-side languages and database technologies.
+Client-side languages
+
+Client-side scripting refers to the creation of web applications that execute themselves within the browser of a user’s computer, like storing user data in cookies, simple flash games, or other forms of interactive web applications. This also includes using languages like HTML, CSS or JavaScript to build the layout, look and feel of a website.
+
+Here are some examples of client-side languages:
+
+    HTML
+    CSS
+    JavaScript
+    Flash
+    JQuery
+    Microsoft Silverlight
+
+Server-side languages
+
+Server-side scripting is a technique used by web developers to build the backend of a website.
+
+Why is that so critical for your new site? A web browser’s storage is limited by the end user’s computer (i.e. the person using the website), so websites need to host the files and images that make the site work in a database on a web server.
+
+Server-side scripting involves constructing the framework that allows the database on the web server to communicate with the web browser of the end user’s computer. To make it work, the developer embeds scripts in your website so that, when someone using your site takes a particular action, the server can display set images or information. Server-side code is also inherently more secure, as the person using your website has no direct access to source code, proprietary databases or data beyond what’s specifically shown to them.
+
+The following are examples of server-side languages:
+
+    ASP.NET
+    C
+    Java
+    PHP
+    Python
+    Ruby
+
+Database technologies
+
+The final set of skills to look for in a web developer is the database technologies they are familiar with. In order to work properly, every website needs a database to store its code, images, files and other data.
+
+These relational database management systems (RDBMS) are the most popular for web-based applications:
+
+    Oracle
+    Microsoft SQL Server
+    MySQL
+    IBM DB2
+    Apache
+    MongoDB
+
+Web Designer vs. Web Developer
+
+The line between web designer and web developer is often blurred because there is a lot of overlap.
+
+Generally speaking, a web designer’s focus is the look and feel of a website; a web developer focuses on the technical side of things. However, a developer who does client-side programming will have a direct impact on the look, layout and feel of a website. Because of this, web designers and web developers will often both know HTML, CSS and JavaScript.
+
+For larger-scale web projects, however, the distinction is often much more defined:
+
+    A web designer will use graphic design software like Adobe Photoshop, Illustrator and InDesign to create the logos, graphics and layout that determine the look and feel of a website.
+    The web developer will still have to understand the aesthetics and art direction of the web designer if they are handling client-side scripts, but they will be more concerned with functionality and features, like the shopping cart on an ecommerce website.
+
+You need both skillsets in order to build a proper website, and often a designer may not even have to write the code. In this case, a graphic designer will create a visual representation of the website’s layout while the web developer will use code to make the layout a reality.
+
+Still other web professionals have honed their skills in both disciplines:
+
+    For a web designer, knowing how to code can help them communicate better with the web development team.
+    For a web developer, understanding the art direction of a website can help them write better code.
+
+Someone who has mastered both can make an excellent project manager, offering a perfect mix of form and function to a web project.
+
+That’s the high-level look at what a web developer does. Next in the Web Development 101 series, we’ll look at the most common web development languages so you can have a better understanding of the options available.
+
+If you’re ready to get started on a website of your own, check out oDesk’s listings of freelance web designers and developers.
+
+Any web development topics you’d like to learn about? Ask your questions in the comments section below, and we’ll make sure to address them!
+
+Yoshitaka Shiotsu
+Writer and SEO Consultant
+
+Yoshitaka Shiotsu is a freelance writer and SEO consultant on Upwork. He specializes in SEO writing, Internet marketing, and creating quality content for the web. Yoshitaka has provided content on a variety of topics including science, technology, travel, fashion and the food and beverage industry. He brings the researching prowess, intelligence and diligence of a chemical engineer together with the mindset of an Internet marketer… read more
+You may also be interested in
+
+    Top 25 Project Management Blogs
+    Top 25 Project Management Blogs
+    Multilingual Online Marketing: Market to Europe in 10 Steps
+    Multilingual Online Marketing: Market to Europe in 10 Steps
+    Brand-Building 101: The Five Brand Habits of Successful Businesses
+    Brand-Building 101: The Five Brand Habits of Successful Businesses
+
+    Follow Us
+    Categories
+        The Way We Work
+        All Things Upwork
+        Startup Resources
+        What’s New on Upwork
+        Engineering
+    Tags
+    #TipTuesday business resources Career Clients Commentary content marketing Contractors data security design Digital Nomads distributed teams Engineering Entrepreneurship Freelancers Freelancing in America Hire Fast & Build Things Hiring Headquarters Inside Upwork internet of things job posts Just For Fun Marketing Millennials Mobile App Development Newswire Online Work Product Development productivity Product Updates proposals Research and Data Skills Small Business social media Software Development Success Stories The Future Of Work time management Trust & Safety Upwork news Upwork Profile Upwork Tips Web Development work-life balance working with freelancers
+
+Upwork is a leading online workplace—helping businesses find, manage, and pay freelance talent. Our large-scale staffing solutions are used by companies of all sizes, from scrappy startups to Fortune 500s.
+
+Learn more about www.upwork.com
+© 2015 - 2017 Upwork Global.
+
+Upwork Global Inc.
+441 Logue Avenue
+Mountain View, CA 94043
+USA
+
+    About Us
+    Press
+    Hiring Headquarters
+    Enterprise Solutions
+    Privacy Policy
+
+    0
+    1
+    3
+    0
+    5
+    1
+
